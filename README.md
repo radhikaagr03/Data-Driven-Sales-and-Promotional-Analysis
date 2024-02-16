@@ -1,6 +1,8 @@
 # Tableau Data Visualization Project: Data-Driven Sales and Promotional Analysis
 This Tableau data visualization project focuses on analyzing sales and promotional activities for various retail products across different categories. The dataset spans 156 weeks, starting from January 2009 to December 2011, and covers four product categories: mouthwash, pretzels, frozen pizza, and boxed cereal. The project aims to provide valuable insights into store performance, product sales, promotional effectiveness, and regional trends to help businesses make informed decisions and optimize their strategies.
 
+![](https://github.com/radhikaagr03/Data-Driven-Sales-and-Promotional-Analysis/blob/main/Final_Project-_-Tableau-Public-Google-Chrome-2024-02-16-12-36-07-.gif)
+
 ## Tableau Public Link
 
 You can view the visualizations created for this project on [Tableau Public](https://public.tableau.com/app/profile/radhika.agarwal2941/viz/Final_Project_17079689919440/Story1).
