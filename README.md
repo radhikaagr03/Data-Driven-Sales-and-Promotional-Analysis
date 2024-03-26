@@ -5,7 +5,7 @@ This Tableau data visualization project focuses on analyzing sales and promotion
 
 ## Tableau Public Link
 
-You can view the visualizations created for this project on [Tableau Public](https://public.tableau.com/app/profile/radhika.agarwal2941/viz/Final_Project_17079689919440/Story1).
+You can view the visualizations created for this project on [Tableau Public](https://public.tableau.com/app/profile/radhika.agarwal03/viz/Data-DrivenSalesandPromotionalAnalysis/Story1).
 
 ## Project Overview
 The project begins by integrating multiple datasets, including "MSAData Text File," "Store Lookup," "Transaction Data," and "Product Lookup," to establish relationships between stores, products, sales, and promotions. The integration process involves merging tables based on common identifiers such as MSA code, store ID, and UPC.
